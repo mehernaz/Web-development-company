@@ -384,7 +384,7 @@ hr{
         margin-left: 0.5rem;
     }
     .service-img{
-        width:10rem;
+        width:12rem;
     }
     .banner-img{
         
@@ -404,8 +404,8 @@ margin-top:8rem;
         /* width: 100%; */
     }
     .about-img{
-        width: 25em;
-        height: 50rem;
+        width: 26rem;
+        height: 60rem;
     }
     .testimonials{
         margin: 2.2rem 1.65rem;
@@ -428,6 +428,19 @@ margin-top:8rem;
     .footer-box .fa{
         margin-right: 0.4rem;
         padding: 0.5rem;
+    }
+    .services h4{
+       
+        font-size: 2.4rem;
+    }
+    .services h1{
+        font-size: 4rem;
+    }
+    .service-description{
+        font-size: 2rem;
+    }
+    #about ul li{
+        font-size: 2em;
     }
 }
 
